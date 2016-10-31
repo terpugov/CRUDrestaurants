@@ -1,0 +1,803 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB5AAAAF5cS1CLjnX-P7wco4MMmEDwA6K__rmhrxcPrV-Rjo8ABS8Bhi0p-n_Ch3jS00ec4Aypmkfp7mXxTM2fegEBoCnHpLdp16sBifOZka2NaMY9IrVc9Rfw1Y7lY_520yRR6bCK8TGE4HtWaQGUgtimkWGb-y1bTyfo7Z0LAGun8yd_kaqcgaVCy2V7LRlWavzD5O4aW4krXw7xdpc2IqNS-Kp6GkmF1OksiS0O7yrmXzOia4rrNAYIYY3gU7zfLDY3SCM41SKeD28_Z4vlHQFYL5DAoE0J4AbuIEqxoqzUv3kmARLnUfsaak_JoHw7WkzpBRIQ7iKURYd8TM8UAMyQtQImcRoUzunPK_ZpD00nY41KB3iXI4LGfus",
+   "results" : [
+      {
+         "formatted_address" : "ул. Молодогвардейцев, 68, Челябинск, Челябинская обл., Россия, 454021",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.1813641,
+               "lng" : 61.3316328
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.18157804999999,
+                  "lng" : 61.33328085
+               },
+               "southwest" : {
+                  "lat" : 55.18072225,
+                  "lng" : 61.33108345
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "7ea5775be133182527e0dbbb919886929705e556",
+         "name" : "Старый Ереван",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 800,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100521206928477111628/photos\"\u003eВиктория Хомутская\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAABFClclmhYCDnf7Dk1_tYiejCQm5Lpm6xGYfclHWeMguyelAdb-nc2o0UqawIOJFLScI5Ml0E46CHNmQhGkrnQRKVxc29HMh7XN-S4K4_mXc6RBgIeEAWETPP563lniXkCtT3f3vAA_sC9qO1CZ3pQbty_zOOp__-0DW5-vMkOm7EhBl-giYb2Cul5oQjFKkXui0GhQTyiaRDX29Fqz6n-vzfq4dX23psQ",
+               "width" : 600
+            }
+         ],
+         "place_id" : "ChIJ4UV3rxiTxUMRxQyMqVXk5mg",
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "CmRRAAAAHh9vJiJNhZT70sKBDtqJj2aETMCn7ky9z1milY500DEYU5giNqcCy8dpsw5BMOI9w6VX3gxQw9sOCMzL00Innne3vbeFIGC68QjEjrbFn6pk5pYPETEKuCabi9NC-HGYEhDR8H3NwHuefUjNL9qXIdiTGhRg8GWj22FIxqJlN1rXHCfxcrUfuQ",
+         "types" : [ "cafe", "restaurant", "food", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "ул. Труда, 179, Челябинск, Челябинская обл., Россия",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.1671815,
+               "lng" : 61.3796175
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.16818950000001,
+                  "lng" : 61.37985449999999
+               },
+               "southwest" : {
+                  "lat" : 55.16684549999999,
+                  "lng" : 61.3795385
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d944021f989ba574027ca8348ad29409a6e327cc",
+         "name" : "Ресторан Paulaner Brauhaus Челябинск",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2475,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106984722579249737385/photos\"\u003eRustam Gabdrakhmanov\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAFeNDYVhvjo5U4aXgKbTFGEaGdg4usE1EPUQkG6nhvaXGI7TW2nAx7bL-aWuQUm7IM_PXvVk0tSCg4H4ezh3vGJ5HyQv15TR2WGGdafZF4MeagMDh9O2aLiLGTjCX3RSiwXFNtv1WiyTbrkUUAxzlNaY9CzueHNviYrK8GoAqhm8EhC5LJOrAREGNv3mLtDDdIkuGhT0tLiJ3NVxutl4p0eUUP5bPxXLJA",
+               "width" : 3501
+            }
+         ],
+         "place_id" : "ChIJ9TG5XMmSxUMRES5EB4BdPpI",
+         "rating" : 4.4,
+         "reference" : "CmRSAAAAsSc9RchdcdwdasHJqRc_CDOhkjMv-pw2ne16b2pJbFvd6sp1XVOo5CPgriJHPF03XXl_lW1pZXVhH24yr2DOSbV-Zu2wOQQ__Or0HMBUXsuxlqlJSHGFNWpwTPiQN7ZsEhDmyJFkwKBV8JLucEZAPtAcGhSJFsH-30M3scuAu74yE7DIM-Gd5A",
+         "types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "ул. Энтузиастов, 36 а, Челябинск, Челябинская обл., Россия, 454092",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.147102,
+               "lng" : 61.37617299999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.14713080000001,
+                  "lng" : 61.3769011
+               },
+               "southwest" : {
+                  "lat" : 55.14709239999999,
+                  "lng" : 61.37593029999999
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "54675167633d377d28374a79215ad36e8890eb7d",
+         "name" : "Basilio",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 600,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109526453712964703892/photos\"\u003eДмитрий Модестов\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAN-b246KWtj1K_takETuAdBkpiWBirqTc_xr-hnFYo3NV6O0LcX3rJv9FkTo1fGDm9rIB-NOleuSJswMnQIpyWGAjJ2m0p0g5Y5WKdgt3yqRqTLXNbZ75sZomqZTESrW9_zzG-lTGpncjST_kwvWDI2Qd8JeBKaRnhnAC30UWHFPEhBae1x5yxNoWYfHI0psThMMGhTipUdeUvjqhJLeqCUzrsx3lhsKGQ",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJ-R6WtLSSxUMRtBanufzOgpo",
+         "rating" : 4.7,
+         "reference" : "CmRSAAAAm0ONwk8uISbxOLOzep23jRbrGsTRTnxrF2PAf2IYqj_4TjMDmYh9Y_3JYgfKNq8eg3yXBJXvwy5Gdpu5aHYX1RA1R9y5zzgopPzqFvV8U53V1O1QEPaoKLlhwWNY-SbHEhAb3N5gNVwtaWBPwq88C311GhRd3rpLEQ564p3jCXJ57kkAD9yKvQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "ЦПКиО им. Ю. А. Гагарина, улица Коммуны, 120, Челябинск, Челябинская обл., Россия, 454000",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.1656488,
+               "lng" : 61.3661566
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.1675086,
+                  "lng" : 61.3673086
+               },
+               "southwest" : {
+                  "lat" : 55.16006940000001,
+                  "lng" : 61.36577260000001
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "00d6464dfb1889f2c8db1de2b5f266556034326b",
+         "name" : "Шафран",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1033,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117434342715013961814/photos\"\u003eШафран\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAO2Y3Ab2P3ICWjjxeGn500nCJbGMvd46RvxcRHS3i1GQUDwAf2rxOXFdUX7Y6rGJ6M--o_x3jURTm6UbLNyysyGhwGjiihW1S_WtbmolvzIVHVTtGsiJj0fgtevC5bEe8kpaXXI8yZUvVfQiKZOytV9E0G1V7T7lOiTouel8eZqnEhApDjpm2PPjDDuzpeBc9hZeGhRJ8NvYGH-BzeDXJ_-xGtW0gkIbwA",
+               "width" : 1036
+            }
+         ],
+         "place_id" : "ChIJs5ZESMSSxUMRbliXrjzLP7o",
+         "rating" : 4.3,
+         "reference" : "CmRSAAAA0cAEyS54pon9Aextg_StSp0RqXjja7rzZkChDQMIP4dPLUogZk7hHbToT3T8GD9U87Z1i_dQ17-aySUpn-v4Qq5ryhhxOscAfNodNCPbzmGM-kJN0x04AlnP0igYE2d4EhDrcsGFMgUc4bQuwm6UDWa1GhQfhlhVxo_DTV0htIqczu47f4DXCQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "ул. Сони Кривой, 83, Челябинск, Челябинская обл., Россия, 454000",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.157008,
+               "lng" : 61.3680933
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.15748230000001,
+                  "lng" : 61.3681505
+               },
+               "southwest" : {
+                  "lat" : 55.15684989999999,
+                  "lng" : 61.36792170000001
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "8da37f80857aea15c2f4b9573fc44a53f8026674",
+         "name" : "Steakman",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107233324125021559977/photos\"\u003eSvyatoslav Opalev\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAKi0epNEF1yVZdBoNc36uJLmvSNvzTJ0QN0Nd2mqRpTIgtIWjpJ8eZRqIWKIQQ5qOY1QQs1Gx9fdez7dV-ymzxULTC5UQg28lxGVxczfFiJgtNDIZFnANN6TeNSgLj16v8L8fcDLT-6ivZmjyRg88L70x6fGTukRXZ_m6Vd2TmkyEhDVz1cn19n-rwAZI2SXkDRUGhRKKSD79XBD4PRAo-WOojpPfAWj1w",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJLeWXEb-SxUMRZfOeeitKxN0",
+         "rating" : 4.2,
+         "reference" : "CmRSAAAAev26antPGT3HnKPmWP3maAuFH8X4kGy-oatnbkJasu1NQXD4kFiIEmz2CDJrZZB6Yra6gvicuzHWlyX1__4oKkSHtrviqorIlwoU42V4AyfIBNanJHxBIlndyxP9TZTKEhAMkXqBobruH_awAmET8BluGhQPUIR8tA5KpJx8CqDlahFA1d2suA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "ул. Худякова, 13, Челябинск, Челябинская обл., Россия, 454020",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.147293,
+               "lng" : 61.375004
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.14778725,
+                  "lng" : 61.3759676
+               },
+               "southwest" : {
+                  "lat" : 55.14712825,
+                  "lng" : 61.3746828
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "91dce93bd94122df2088ebcc39b493e5135d2321",
+         "name" : "На Старом Месте",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1200,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114087028838093224010/photos\"\u003eРоман Хитёв\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGdZIDpG6XVRFkyTUHpWxDFNpapZelfiyv3567zvvE180M28lIvUaJlRZwAVs-9-shB7T2hskNlKCSvZy6aJoAoIFRM2FZDOy5bovVzzpOiA1Dv8_QUqpUHx1ad-h9z1VQT-KuAZaxWZRIuuOqCzWB4EETb3D-uDw-p7f-lBUaZOEhDsRev7YTgmAKcAk08kfcIcGhS69bWAFqEyXJVcSVkh1458EZciEw",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJjzzElKKSxUMRndhLIKBmXm0",
+         "reference" : "CmRRAAAA1qy1Cw1XOdKaeijBwzWM1-jC8cX6dPEABtB5TMC8OslZrEnzJP--ngvyhu3rF4FpTrFo_mGaQhBg8JumAvEqtoP23MTX6JNz19BE0a7cyoOAnd-wXx4BdPlZ12hqWT9GEhAy-oy7tnYqY2KoKjDgPe4HGhQg0SpXmTM9pamqkfzevtpvPi8CsA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "ул. Энтузиастов, 11, Челябинск, Челябинская обл., Россия, 454000",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.156189,
+               "lng" : 61.376254
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.15619595,
+                  "lng" : 61.37648169999999
+               },
+               "southwest" : {
+                  "lat" : 55.15616815000001,
+                  "lng" : 61.37557089999999
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "36e1845ea3c4749a73d4bdb530f226aeebeeff73",
+         "name" : "Barbaresco",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105276432225426511915/photos\"\u003eМаксим Шумилов\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAClBzzFb6TVSAjnN1de-JdOpCBoeT9q_7X_HnzCZb9z9U3dGN6cVusBUPz46GWKP46yhBYJYXxjf4xiAAC94oKpnEHc4opqIpyuyG0-ZSmHg6jXwxGFXUanHrgA-IAt9RYUBmZlC0tQVzR3x-GlcQlVdP_5Ced-65rT-fO_UTpHlEhCHUmFmSZz6oPwV13DdCnXDGhTxAaSahYDI5YfmfgTqdCo4wHTzXA",
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJU48CZbmSxUMRn4CEJkn4_H8",
+         "rating" : 4.3,
+         "reference" : "CmRRAAAAk1-SYO27TXZZCQXPWXPAzbrHDE-eOOh2P2X85_w8rUcli4-qQP51cjzMSNhLP6QwjxSRDWzsuGk0DsFmXhPSvVHIfPUpqAo2TwM976mKrljnlVo9nTncRq_wxNGf-n-6EhCf6mk9-I4AluDgqTIG5NtpGhQnfNuTJP-OdPy7AZn50XMikPklKg",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "ул. Кирова, 104, Челябинск, Челябинская обл., Россия",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.16290499999999,
+               "lng" : 61.400098
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.16292659999999,
+                  "lng" : 61.4010766
+               },
+               "southwest" : {
+                  "lat" : 55.1628978,
+                  "lng" : 61.3997718
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "2fcc5fc5b78828ad07681739546daf1bb4d4a29a",
+         "name" : "Turkuaz Grill house",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2036,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100517945131176930911/photos\"\u003eTurkuaz Grill house\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAHKbfHF7Qu1jH5DIv1YAzpM_Wqyf009ia9gNpra6uthGbmsjDiecmrP9EatU9d-MRw9y9nhqb9RjCGOqs_pDQjsD04QLlxvThbkHs7Z0TM09xcN8qe3Bkb_UeQ2sCsibaxe9UzSVzarxfqsBpOL6v6SciqxFpa16AfzBs5Rj-V2DEhAf9tsU73IAp--4YVg49su5GhSekYjTELB5rCe_OZulouxi_ealpA",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJBfnLbEvtxUMRcC2KNSan7uI",
+         "reference" : "CmRSAAAAfS5eJzc3rcGbKYS1cS21odkvwGs_td7UYHFlce2XWwXQW9FAIDsoUymGXqql50wXQnCV0-FXVpYtK-ZDh9mhE-7HclaWvEKUGkUhPrXd-s5Uikb4Ku44Kl6yolOgKwesEhCzel9DyT0ATWANLmF7uHBeGhTSxeRn67-Eoj321uCUs8e9OEn22g",
+         "types" : [ "restaurant", "bar", "food", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "ул. Цвиллинга, 20, Челябинск, Челябинская обл., Россия, 454091",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.164144,
+               "lng" : 61.40336
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.16425544999999,
+                  "lng" : 61.40407264999999
+               },
+               "southwest" : {
+                  "lat" : 55.16410685,
+                  "lng" : 61.40312245000001
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "7741bb985282bb0251ce027ec3b0b70966c406a1",
+         "name" : "Балкан Гриль",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 768,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102025487707277008835/photos\"\u003eDragan Cakic\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAABSLaiRYKeBE0DdL_Hu3Lu2YPVVZQciuUlYjhat8Ibsaazdl_NJQLxINhX7tbXpfurnX57H0RDD8HopYztCKssaMyTOQ7J5vsg881tme6rPsMgnxAdGiGSJfZrnulLXyi4-dCr0ahpu87cpGLC8ibVd_Dm7Bg7csPLFaCvHvCpkBEhDje1LvRbQ73y0hmWaS9x95GhQ_RNo7vmOGsC-B5FAiA5Rih88GWg",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJTwK9v0vtxUMRpglMDAmWzgw",
+         "rating" : 4.9,
+         "reference" : "CmRRAAAAq5I1WpGObrmLVOuq3bJKmcSFc21OvbJ6WHYr2Il57F1w2GSNsmoY6iY2PJ0Jd24yCFxNcswoS6442NWEazJoil7cU45rd2hNhYRdhHB_7Up0mALLIuViImZLIK2jHaRwEhBTU5nE-jDTcfJ1mlaZoEaYGhT8sWZgdHHvgbGCJ0OOT68yJaROow",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "ул. Блюхера, 51, Челябинск, Челябинская обл., Россия, 454087",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.132998,
+               "lng" : 61.37097300000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.13310920000001,
+                  "lng" : 61.37125245000001
+               },
+               "southwest" : {
+                  "lat" : 55.1326644,
+                  "lng" : 61.37013464999998
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "8e8d5dc0b646c2b4cc9afd67dacec1b62c341eac",
+         "name" : "Дока-Пицца",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115475734318924707354/photos\"\u003eКонстантин Попов\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGn-fZUPrw4vEQ2rtUUV1t9vFdk9JEgac9yQe7Gj2ki0HbK6UwU-0KQl-ijtTaLLuLegJrDwrhBC1SygFCqyt2s6ZTCdMgnOU8LayZeEbKYtCav8ZrEKpVoNAmPbD9G23YmxK8XrTpYlkukri7UygCrRIZ_YdK2HQylfpRCYWWgEEhD-e0Ln3PHG5ngChwujc2zAGhQRXvUJPPAltyk2Yndt_JC2D6NFTA",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJcbTLuHyNxUMR-V_ro2yuGcU",
+         "price_level" : 1,
+         "rating" : 3.1,
+         "reference" : "CmRSAAAAGZfTQj72sfh3Pb9VmclTQlhRlfcKCwhyGPf2OppDBucOFtXaFEsWNPDCyI-AO2cqbLQtqxS8D82eC_fOrc_h8PDN5lAkt_9tFxiEAwRI3TNGP-vwiBfY9_A-dtOaEtV2EhAzJaFzItPTwZlVkfHXKo9QGhS-mAcMsVap5XjdIFlmZMXWYQnIVQ",
+         "types" : [ "restaurant", "cafe", "food", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "ул. Коммуны, 75/1, Челябинск, Челябинская обл., Россия",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.1628134,
+               "lng" : 61.4016896
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.16287009999999,
+                  "lng" : 61.40251079999999
+               },
+               "southwest" : {
+                  "lat" : 55.16264330000001,
+                  "lng" : 61.39922600000001
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "8c930c6a5fc30f83c1f30e7beb69e6e13dd0e14b",
+         "name" : "Журавлина",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101542990572753661532/photos\"\u003eJay Gopal\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAB55ilnP2ffQwQ0oF2gbMIMyHxwrjehcvG8FZFMpW-TNi1vSLOio22lHDmzMeRugiAr-P0HppLyrb1lWw4soVU02ycZW1vGAzL0I2zVBW5hQtOZ8dVYLc3igjc18WrJ1aAfIdymne_NyY6NeySFU3AnD0hoOiWje1ZPGvV7G2BZSEhBvsgWzrhkFFiJwyiyZHAqDGhSrPRHrvwANH04l1gsO9C8snKdLyQ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJlyKTe0vtxUMR7rDEAInLGVs",
+         "rating" : 4.5,
+         "reference" : "CmRRAAAA0vb7Qecr3UA53kpSp7hwKP7w6p57GfMs1PQeUtSayHPeIPsuHiGaevFoyrDX5kPKIdWS6sXVPO8anAQh5dlb9SmTytlmHeAUl0YJkFzh3CTG3AVRPb8XWsm8UlVjHrzDEhB_655SGq1WR1J2W8veEqWPGhQ_mELi0bKzd9XyvSYWnE2-mYheSg",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "ул. Цвиллинга, 42, Челябинск, Челябинская обл., Россия, 454091",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.1582251,
+               "lng" : 61.4062145
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.15840839999999,
+                  "lng" : 61.40672735
+               },
+               "southwest" : {
+                  "lat" : 55.158164,
+                  "lng" : 61.40604355000001
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d5797e05eb70f4503fbe7419eddfe081a33454a6",
+         "name" : "Titanic 2000",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116700605137594771672/photos\"\u003eВладимир Веремчук\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAOI3hQ92GdtEUzSCIOeqjdc--VPcHEL7_cfg7yzqzaKTnE8M3sFz-ZYk7I9pGnw9F-OpiA4SquOgAhI-SdPs0GVICALPJRKeJk-vC70nONKzHH16UjlsiPjZay9bXA-MbxwMCu_z1l2mmagVg2Pt850lzTk7crfXYamV_uLunGQsEhCbhgvDzKPhb0atV1wwNPGrGhSD56rW2ntghoPgiKYA4bn9FOaTzw",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJKx4Tb03txUMRARTOZRMuIHY",
+         "rating" : 4.2,
+         "reference" : "CmRRAAAAkcB5vabo4xAsml_2EUGsK1zehRhPpSXxVFDxX1k0A9jqfvbPkEcyD6oArLj9mAultxC2LRyVpZouvQmo7OXRH6yeDSfAkVwip63sAhagpobtYdVUUN8QE4cAXZGFT9FeEhAyHcrJlN0IU3NN3BopuiiTGhQGZ0QmFNyVL7_I1G0_dPmXAteF6A",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "ул. Свободы, 88Д, Челябинск, Челябинская обл., Россия, 454091",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.1531374,
+               "lng" : 61.41401679999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.15323140000001,
+                  "lng" : 61.41409720000001
+               },
+               "southwest" : {
+                  "lat" : 55.15285539999999,
+                  "lng" : 61.41399
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "48374b64ada02535e852ddf8a422b842129e1fe9",
+         "name" : "Papa Carlo",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108095891086792429690/photos\"\u003eRoman Tkachenko\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAGH8yYyzOohOme7KwEp5FtO3Pue_E6TNi-whedVlR05v7k_XGRzFqG-fz-caOk0v2cqpHd9Kf5naQJxTPOBtH-cXDSIqmKbMdhoWwL4LFZTmRmZmBcgtZsxYpearoH8uNAFvL6oescrwiPs4Gbg0KeBQlTeTzP8dpWImimECs5ynEhBdcKfZHMiR8Gpgfr-wepk7GhT6WvdpHcEhOybdN7xMd7F7z3s2MA",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ95Nqf1PtxUMR4r7eIFwCkxg",
+         "price_level" : 1,
+         "rating" : 4.8,
+         "reference" : "CmRRAAAA9cExHq0o6BjbQ96oYuCurRTePrNqIMc1wFTwUHzGL50lsHofBo1QCL4owNsAX_a2DeRVD_YoYIegnGrIqxvZhdsGi2iyhnT-qGUHjh5z8zpNH-24mn6gDkb-I2-NALSREhAJPwcWOtQNeAcJSpoZYZnRGhQnoqZVVKLMHbT1gG1eu8RfFxtWRw",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "пр. Ленина, 66-А, Челябинск, Челябинская обл., Россия",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.160526,
+               "lng" : 61.3805154
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.16060419999999,
+                  "lng" : 61.38152459999999
+               },
+               "southwest" : {
+                  "lat" : 55.1602914,
+                  "lng" : 61.38017900000001
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "4bea71997caf6add347545c1ed9302ed9fdb506c",
+         "name" : "Уральские пельмени",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 667,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106053629493668086673/photos\"\u003eУральские пельмени\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAJN1TxC4JsaV9hMAxMPBmVN-JFJhRC19RAFKN_FcVpK8mHHGe7YFHzEy_mJpl6yyLqRKzj5Jg8d0bZsOsBf75digDUY6OJ1AmoIpmy2pR9AlslMcAkJ1he3D9oIQrdDQYCcc0bbpB7k07euANMqI05NSuVMNsrSmnRQkybCDFADZEhBZEpyjHWR0TKj6lWBJrgiGGhQn7JSXqmCISwru2WowNgKLKNhAOA",
+               "width" : 668
+            }
+         ],
+         "place_id" : "ChIJH3wxBbmSxUMR_jxrnHtu1Lc",
+         "price_level" : 1,
+         "rating" : 4,
+         "reference" : "CmRSAAAAl2ksvejKoPGnk2UQ-MOczqsEdB9omIi2MlJYM6IkRudPhNfrhByI45EMvn0OYs1P12dj15CKrsehnO48EwsDouz6gTz-tBcKyLQ7Hs7mRIyps6LTo1B9nUdbPzqnWEpFEhDetseQPlUzuhbrI-BWFQgLGhRONIgRvzNXjxnJG-uAhFvLdZ28Yw",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "ул. Труда, 183, Челябинск, Челябинская обл., Россия, 454700",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.1679307,
+               "lng" : 61.3747734
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.16979639999999,
+                  "lng" : 61.3761903
+               },
+               "southwest" : {
+                  "lat" : 55.1673088,
+                  "lng" : 61.3743011
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "cab8e38e54d062a7cda7048e458fb20ab3e077fa",
+         "name" : "Максимилианс",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 612,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105525902707351747125/photos\"\u003eЯрослав Запорожченко\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAD9YtSNPObQanx9Pz9qYHDs68HCuWE5em_UrSpruH-8oi7dlpXfm1VKLcdiEPEfrmkxBnHQ4qVZFa35f8A9fF0a6Xfft5ETJhqZjhb6zQL7aOopLlPOuCwAVF02sOgeEZLvy6R9GajNC2lGGftnrlqiKVUvqdH3Y7WSa0ZssoVlyEhBwThib8IBNXp4ZzP8FjvwfGhTDNy0toAmt99suusKuvGZkOV3lPg",
+               "width" : 816
+            }
+         ],
+         "place_id" : "ChIJp_QBNc-SxUMRssfyvR9C27w",
+         "rating" : 4.1,
+         "reference" : "CmRSAAAAjwb_3HOUCAYp0r_y2LioqscDtKwmZndaKEo-R5PnmLGuil0VN5eafB0n-VMxXFdX9xdMSDrIcFnZIowT0S1iemkSjWh6C8v_L3dqAcANUrGVVoBKqvRCa59KIkNsuxUTEhCyjS8qr85iUi-KifH-LCOvGhQjn6fxfxzH7n_3NtcN2jMvinXpdw",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "ул. Богдана Хмельницкого, 13, Челябинск, Челябинская обл., Россия, 454047",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.25755289999999,
+               "lng" : 61.3959632
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.25764154999999,
+                  "lng" : 61.39597715
+               },
+               "southwest" : {
+                  "lat" : 55.25728695,
+                  "lng" : 61.39595855
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b29ca479d36e4dbbef031315ccc17ca622b9a045",
+         "name" : "Докафе, пиццерия",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 980,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113942500020459170255/photos\"\u003eНиколай Комаров\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAHEtHjGnEb9wH4KJt5SmbDy8Rrbrnh12_-JpZIMzEX86uMXdduV1fYvcGrh-5cUZOxugIlFwqk8osAtSy8QsCqh4sbvaempg4tEmquJtcyhH491NSozzqLxhfIWEv7dDZXfPWD_QdmCewqnXEwdLoM4iHfjD2AW6xvROIxoAvQtaEhASkJDSC6qOEZFDCCnVRQ53GhTYnr8VjKQEUlQ3LyHth3IJwpox7A",
+               "width" : 735
+            }
+         ],
+         "place_id" : "ChIJ3VmuUZfrxUMRp8EOM3fJSaE",
+         "price_level" : 1,
+         "rating" : 2.7,
+         "reference" : "CmRSAAAAbeoQNnSwqHH_03tQJ9lI1mXMdv75SLoGInwmWvB-tf5UTMso3XG7p-_RVsDzjXx_aSPPmjXLp6Zmx6gdj0OHPnkhjE0vmrscV30OPIo1W_ONZLf0FWCX8VByi2-ImFxJEhDMvM3MqdiWR18PNHwu1ibTGhSZDs4ti_wKjz1GbVTQfc5b5AjMXQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "ул. Сони Кривой, 33, Челябинск, Челябинская обл., Россия, 454080",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.157882,
+               "lng" : 61.39268500000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.1580377,
+                  "lng" : 61.39275900000001
+               },
+               "southwest" : {
+                  "lat" : 55.1578301,
+                  "lng" : 61.39246300000001
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "aef03b60ddd94f0236457be09d8f4942750bab6e",
+         "name" : "Ребрышковая",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117071710184897811505/photos\"\u003eВиктор Пономарёв\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAM6JCFI0HvEiin7PeUaGvSHQ8jDqSujU0c7cQvm13lUdrPq1TAqvaHvqSPjZlVyPxmUYCFboACHQMUju7nhvXAcog6DI59GGS15evFUTHSulRG_CW3Hs4GkvKaaedVjj_6pLHaYP8kCb1F29F1u3U-WkPBEgo7PWMvRCL3cbu6C8EhCzpNLxhw0aJYoqYZ-l3SMpGhQqd7y1Rzl0MF5LmX-j8Q0Ncb_ozg",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJCQ13cLGSxUMRJsvjbThPyzE",
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "CmRRAAAA3uhu32mSYOT9yyNte0ZBohDorIitX3-MmZegLG96NFSzviCODNgPjDb59dj3EtL34XUntkZp3M3qLlludncd-Bb3joHyqfxsmSMS-mdjRTLmCC-iFbMgGp3VK5A2lyBBEhA2_tCKlYnM77LJXY6REpmJGhTWJ-3RK77_x5yyfuvX3oLHTglqCg",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "ул. Кирова, 161, Челябинск, Челябинская обл., Россия, 454000",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.1639101,
+               "lng" : 61.40110239999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.1697943,
+                  "lng" : 61.40144299999999
+               },
+               "southwest" : {
+                  "lat" : 55.1619487,
+                  "lng" : 61.40008060000001
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "fec2916e0c9e05b63f6ffaa69a5988b9bee09078",
+         "name" : "Pretty Betty",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101445904584406914545/photos\"\u003eHector Gomez Dovigo\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAMtHirk9ayL1aPVepY434xfrFw7bP23duGllUsrH5HVBT0ER5NeRtkSue8l7lhGHqT-uUhIIttvAYS2EkGCAgr3qspIdHIJDX2vydXwlSfxZfOPKLJKrtZ3YtNmddnp8azpia6dxqJIsfTB_BziEIhLb_vJ8Xl0I_4oXCyAHqxNnEhCQigpVLqjUQGoHnHAk1NikGhR9hpXMEDNjVZMktljuKSDZXTg-PQ",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJcTyWCUvtxUMRkGFuxAisULs",
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "CmRSAAAAddP1NNYpv-DECLF-HHb2MFt4OmFK2ERPhsTpadAOjJZaFVPochvoUfznETEjX7lxXNIO6CILj01BwN_DdnKU6exvVXUyuRHTuA4Tl9Pa-9P53SgnKzT4jibZ-Ix-w160EhDK9ugVIXvXdfF_PrPaQ2LEGhSHu2ns7ujbMyPAPvylpVclnEG1Xw",
+         "types" : [ "cafe", "restaurant", "food", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "пр. Ленина, 59, Челябинск, Челябинская обл., Россия, 454091",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.15985149999999,
+               "lng" : 61.3966675
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.1603588,
+                  "lng" : 61.39857249999999
+               },
+               "southwest" : {
+                  "lat" : 55.15968239999999,
+                  "lng" : 61.3960325
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "98a1b46aed3fdb9e7604dd1011b4ed26f30513c3",
+         "name" : "Ресторан Сова",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1371,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107697962599721873009/photos\"\u003eРесторан Сова\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAACwONPDuFfbHw1s79d4cBNVc2-LBqrwNYSm2Ns1ehqPYcquFYObKrTu_tJtohH1DNlyEI_1G_IGDRUCexnFypXIeIAwthXzSXtD15DsnU9Dtd0Igs6RLQujysZ0hgjfTTAkhXWKXGt7yXiPByPDa8c3AMUurPMYzOsljz3NPVDMYEhA8_LHWOVQsaxpcJX7VwHU3GhSjMQaZv3_MDwFIXrR5P22acNV8Mg",
+               "width" : 1365
+            }
+         ],
+         "place_id" : "ChIJ-ybRbbOSxUMR6QCm0m_Xo-A",
+         "rating" : 3.8,
+         "reference" : "CmRSAAAA0kf-jA0TsDMIds3xmgRr_pygaS4mI7iCP1ztjOiOT4gsdtEYDi9lAW_rUhhFl8gfxpjqMBTPzhEZzj-DQRaKxMYYuODDM_4RcvFKkny3boDTV2DinMYSEaPj015_hKFCEhDQZftKtpR7Wur2CGgB5KYNGhR4dxy0Fo7NcJ0-XxUhtuzjPfloBw",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "пр. Ленина, 54, Челябинск, Челябинская обл., Россия, 454000",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.160761,
+               "lng" : 61.401886
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.16095780000001,
+                  "lng" : 61.40189505000001
+               },
+               "southwest" : {
+                  "lat" : 55.16069540000001,
+                  "lng" : 61.40185885
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a2a6476d1ac71265e935069cb46f53fcfaab641a",
+         "name" : "Помидор",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJZTgrlUztxUMRCVYzqVNbbZo",
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "CmRSAAAA6c2HQTBLHQEi1iKcsusBOxCXNFXiyZ192buRjpY0mfgCqdPppt3tnNaVv-5a_fvsIZcEYGiB5y9EJEAapiYHPMekrVnO14yh745tsKdkPb4T1ZaiSME8_6hvGEEaPvvmEhB4-i_w3ObIiR1j4AedmDdFGhQ61Ewr8iSjPhOeM8IepEvr8_wsIA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}
